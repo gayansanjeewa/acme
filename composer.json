@@ -1,0 +1,17 @@
+{
+    "name": "gayan/acme",
+    "description": "acme project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gayan Karunarathne",
+            "email": "gayan.karunarathne@team2.cms.lk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "app/Acme"
+        }
+    }
+}
